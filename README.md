@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 ... 
 
-Official Store
+Official Store <img src="https://img.icons8.com/fluency/24/undefined/instagram-check-mark.png"/>
 
 <img src="https://img.icons8.com/fluency/24/000000/internet.png"/> &nbsp; Web store  <img src="https://img.icons8.com/fluency/24/000000/google-play.png"/> &nbsp; Playstore  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-huawei-technologies-company-a-chinese-multinational-technology-provides-telecommunications-equipment-and-consumer-electronics-logo-shadow-tal-revivo.png"/> &nbsp; Huawei store  <img src="https://img.icons8.com/fluency/24/000000/microsoft-store.png"/> &nbsp; Microsoft store
