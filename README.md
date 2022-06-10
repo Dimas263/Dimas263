@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 🌱 I’m learning on <img src="https://img.icons8.com/office/16/undefined/source-code.png"/> any programming language with <img src="https://img.icons8.com/office/16/undefined/chatbot.png"/> latest digital technology and <img src="https://img.icons8.com/office/16/undefined/for-experienced.png"/> artificial intelligence with some of programming language and framework 
 
 <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/25/undefined/external-help-social-media-basic-1-sbts2018-flat-sbts2018.png"/> I’m looking for help with any coding problem and explore new thing here
+
+💬 Ask me about github
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
